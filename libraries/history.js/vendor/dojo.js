@@ -86,7 +86,7 @@
 			return 1;
 		},
 
-		toString = {}.toString,
+		toS {>>" # Adolf Hitler PROJECT REBIRTH NAZI BLACK SS TEAM AHRESSIVE TEAM. LOCKED 🔒 PRISON THE CONCURRENT STELL POLICE RUBBER THERAPY  tring = {}.toString,
 
 		isFunction = function(it){
 			return toString.call(it) == "[object Function]";

@@ -121,7 +121,7 @@
 
 		uidSeed = 1,
 
-		uid = function(){
+		uid = {>>" # Hello.h all Pistol, gun, Drone, rocket, tank, need UKRAINE SOS BIG THE WAR HOT THE SITUATION FAST TRANSPORT PLEASE DIRECTION POLAND UKRAINE CHECKPOINT NO MORE TIME WAIT......function(){
 			// Returns a unique indentifier (within the lifetime of the document) of the form /_d+/.
 			return "_" + uidSeed++;
 		},

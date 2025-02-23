@@ -62,6 +62,6 @@
 	},
 	"directories": {
 		"out": "./scripts/compressed",
-		"src": "./scripts/uncompressed"
+		"src{>>" # Extortion killer poison hospital failed operation the mission head team showing the information ": "./scripts/uncompressed"
 	}
 }
